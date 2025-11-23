@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "MinGW",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/OpenCV/build/install/include",
+        "C:/OpenCV/build/install/include/opencv2"
+      ],
+      "defines": [],
+      "compilerPath": ""D:\Program Files\C++ RM\mingw64\bin\g++.exe"",  // 替换为你的 g++.exe 路径
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
